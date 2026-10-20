@@ -1,0 +1,15 @@
+PEDIDOS COTILLON OTERO - APP INSTALABLE
+
+PARA PUBLICARLA (una sola vez)
+1. En github.com creá un repositorio nuevo (por ejemplo: Pedidos-Otero), público.
+2. Tocá "sube uno existente" y arrastrá TODO lo que hay en esta carpeta (index.html, sw.js, manifest.webmanifest y la carpeta iconos).
+   Si subís la carpeta entera, el link va a terminar con el nombre de la carpeta.
+3. Tocá "Commit changes".
+4. Ajustes > Pages > Branch: main y "/ (root)" > Save.
+5. En 1 o 2 minutos aparece el link de la app.
+
+PARA INSTALARLA
+- Android (Chrome): abrir el link > "Instalar app".
+- iPhone (Safari): Compartir > "Agregar a inicio".
+- Computadora (Chrome o Edge): ícono de instalar en la barra de direcciones.
+Después de la primera vez funciona sin internet.
